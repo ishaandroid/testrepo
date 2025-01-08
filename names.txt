@@ -1,3 +1,0 @@
-This is my 1st line
-this is my secnd line
-This is third line.
